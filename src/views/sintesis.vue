@@ -3,13 +3,12 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p.mb-5 A continuación, se describe el tema principal del componente formativo Sistema de gestión y plan de auditorías, esenciales para para cualquier organización que busque operar de manera eficiente y cumplir con estándares de calidad. Implica establecer procesos, políticas y procedimientos para alcanzar objetivos y satisfacer las expectativas. Para asegurar que este sistema funcione adecuadamente, se requiere un plan de auditoría. Este documento detalla cómo se llevarán a cabo las auditorías internas y externas para evaluar la conformidad con los estándares y la efectividad del sistema de gestión. El plan de auditoría define objetivos, alcance, responsabilidades y cronograma, asegurando una revisión sistemática y continua para mejorar el desempeño organizacional.
 
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="En la síntesis se muestran los temas fundamentales del componente formativo: el sistema de gestión y el plan de auditoría con cada una de sus características buscando una acción conjunta: generar acciones de mejora.")
       .col-auto
         a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono
