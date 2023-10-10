@@ -14,8 +14,8 @@
 
     figure.mb-4(data-aos="fade")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/5GKuxz6zFuQ" title="Sistema de gestión y plan de auditoría" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Sistema de gestión y plan de auditoría
 
     p.mb-4(data-aos="fade") Por otro lado, es importante conocer la normativa ISO 19011:2018, que establece las directrices y requisitos para la planificación de auditorías. Además, es fundamental familiarizarse con los estándares ISO que abordan aspectos como riesgos, calidad, aspectos ambientales, entre otros. También es crucial comprender cómo implementar un sistema de gestión organizado, utilizando el ciclo de Deming, que incluye los pasos de planificar, hacer, verificar y actuar.
 

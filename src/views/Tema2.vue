@@ -159,7 +159,7 @@
             figure
               img(src="@/assets/curso/temas/tema2/tema2-9.png", alt="")
           .crd_hover_txt--body
-            h4.mb-3 Comunicación y consulta
+            h4.mb-4.text-center Comunicación y consulta
             p.mb-0 Las bases con las que se toman elecciones y las causas por las que son primordiales ocupaciones concretas.
 
       .col-xl-3.col-lg-6.col-md-10.col-11.mb-4.mb-xl-0
@@ -168,7 +168,7 @@
             figure
               img(src="@/assets/curso/temas/tema2/tema2-10.png", alt="")
           .crd_hover_txt--body
-            h4.mb-3 Alcance, entorno y criterios
+            h4.mb-4.text-center Alcance, entorno y criterios
             p.mb-0 Ocupaciones para conceptualizar el alcance del proceso, entorno (interno y externo) y los criterios para ver el valor del peligro.
 
       .col-xl-3.col-lg-6.col-md-10.col-11.mb-4.mb-xl-0
@@ -177,7 +177,7 @@
             figure
               img(src="@/assets/curso/temas/tema2/tema2-11.png", alt="")
           .crd_hover_txt--body
-            h4.mb-3 Evaluación del peligro
+            h4.mb-4.text-center Evaluación del peligro
             p.mb-0 Ocupaciones sistemáticas, iterativas y colaborativas, para  detectar, examinar y apreciar el peligro, por medio de la comparación de los resultados.
 
       .col-xl-3.col-lg-6.col-md-10.col-11.mb-4.mb-xl-0
@@ -185,8 +185,8 @@
           .crd_hover_txt--img
             figure
               img(src="@/assets/curso/temas/tema2/tema2-12.png", alt="")
-          .crd_hover_txt--body
-            h4.mb-3 Procedimiento del peligro
+          .crd_hover_txt--body(style="width:100%")
+            h4.mb-4.text-center Procedimiento del peligro
             p.mb-0 Ocupaciones destinadas a cambiar el peligro.
 
     Separador
@@ -463,7 +463,7 @@
       li 
         .lista-ol--cuadro__vineta
           span.texto-negro b
-        | Definición de los objetivos
+        | Definición de los objetivos.
       li 
         .lista-ol--cuadro__vineta
           span.texto-negro c
