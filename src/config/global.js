@@ -286,7 +286,7 @@ export default {
       autores: [
         {
           nombre: 'Aruzidna Sánchez Alonso',
-          cargo: 'Diseñadora web',
+          cargo: 'Diseñadora Web',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
@@ -301,7 +301,7 @@ export default {
         },
         {
           nombre: 'Nelson Iván Vera Briceño',
-          cargo: 'Produccióon audiovisual',
+          cargo: 'Producción Audiovisual',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
