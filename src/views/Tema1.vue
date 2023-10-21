@@ -76,7 +76,7 @@
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h3 Directrices del sistema de gestión
 
-    p.mb-3(data-aos="fade") La Organización Internacional de Normalización más conocida por sus siglas ISO, es la encargada de la elaboración de las normas internacionales entre las que se destaca, la ISO 19011 del 2018 Directrices para la auditoría de los sistemas de gestión . Esta norma ha sufrido unas modificaciones y actualizaciones desde que apareció en el 2011, evolucionando en aspectos como la estructura común, requisitos básicos idénticos, términos y definiciones comunes. 
+    p.mb-3(data-aos="fade") La Organización Internacional de Normalización, más conocida por sus siglas ISO, es la encargada de la elaboración de las normas internacionales, entre las que se destaca, la ISO 19011 del 2018, Directrices para la auditoría de los sistemas de gestión. Esta norma ha sufrido unas modificaciones y actualizaciones desde que apareció en el 2011, evolucionando en aspectos como la estructura común, requisitos básicos idénticos, términos y definiciones comunes. 
     p.mb-4(data-aos="fade") En la siguiente figura puede revisar el concepto de gestión articulado al programa de auditoría y su función o propósito.
     
     .row.justify-content-center.mb-5
@@ -253,7 +253,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/tema1-10.png')})`}"
       )
       .bloque-texto-g__texto.p-4.p-lg-5
-        p.mb-0 Cuando se habla de entrada de la información se hace referencia a todo lo relacionado con un software, por lo cual sus características son intangibles, ya que se debe y se habla de las características como sistema. Es por eso que es fácil diferenciar una entrada de información como su entrada principal de acceso a los datos.  Un sistema de información es el encargado de recibir, manipular, almacenar y distribuir los datos e información sobre la fabricación, producción y proceso que se está llevando a cabo en el desarrollo de los objetivos de la organización.
+        p.mb-0 Cuando se habla de entrada de la información se hace referencia a todo lo relacionado con un <em>software</em>, por lo cual sus características son intangibles, ya que se debe y se habla de las características como sistema. Es por eso que es fácil diferenciar una entrada de información como su entrada principal de acceso a los datos.  Un sistema de información es el encargado de recibir, manipular, almacenar y distribuir los datos e información sobre la fabricación, producción y proceso que se está llevando a cabo en el desarrollo de los objetivos de la organización.
           br
           br
           | Además, se puede decir que los sistemas de información se dividen en diferentes niveles, como se muestra a continuación:

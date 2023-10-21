@@ -259,7 +259,7 @@
         | La redacción debe ser de modo impersonal en tercera persona.
       li 
         i.lista-ul__vineta
-        | Es conveniente definirlo en dos oraciones: la primera ¿qué es lo que se va a hacer? y la segunda oración ¿para qué se va a hacer?
+        | Es conveniente definirlo en dos oraciones: la primera ¿qué es lo que se va a hacer?, y la segunda oración ¿para qué se va a hacer?
 
     p.mb-4(data-aos="fade-right") En la siguiente figura se presenta la estructura para la construcción de objetivos.
 
@@ -369,7 +369,7 @@
                     li ✔ Agencias de calificación del crédito. 
                     li ✔ Acreedores. 
                     li ✔ Dependencias del gobierno. 
-                    li ✔ Medios y otras partes externas . 
+                    li ✔ Medios y otras partes externas. 
    
     Separador
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")

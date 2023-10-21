@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p.mb-5 A continuación, se describe el tema principal del componente formativo Sistema de gestión y plan de auditorías, esenciales para para cualquier organización que busque operar de manera eficiente y cumplir con estándares de calidad. Implica establecer procesos, políticas y procedimientos para alcanzar objetivos y satisfacer las expectativas. Para asegurar que este sistema funcione adecuadamente, se requiere un plan de auditoría. Este documento detalla cómo se llevarán a cabo las auditorías internas y externas para evaluar la conformidad con los estándares y la efectividad del sistema de gestión. El plan de auditoría define objetivos, alcance, responsabilidades y cronograma, asegurando una revisión sistemática y continua para mejorar el desempeño organizacional.
+    p.mb-5 A continuación, se describe el tema principal del componente formativo Sistema de gestión y plan de auditorías, esenciales para cualquier organización que busque operar de manera eficiente y cumplir con estándares de calidad. Implica establecer procesos, políticas y procedimientos para alcanzar objetivos y satisfacer las expectativas. Para asegurar que este sistema funcione adecuadamente, se requiere un plan de auditoría. Este documento detalla cómo se llevarán a cabo las auditorías internas y externas para evaluar la conformidad con los estándares y la efectividad del sistema de gestión. El plan de auditoría define objetivos, alcance, responsabilidades y cronograma, asegurando una revisión sistemática y continua para mejorar el desempeño organizacional.
 
     .row.justify-content-center
       .col-lg-10.mb-5
